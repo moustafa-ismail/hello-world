@@ -1,2 +1,4 @@
 # hello-world
 Here we go again.... hello world
+
+My name is Moustafa Ismail. I am trying so hard to remove any mental blocks I have currently and write as freely as possible. This is the first change in the readme file of this repo. I am following the introductory guide to github. Writing about myself has never been an easy task no matter the how you put it. My main field of study is molecular biology and my main interest is to solve problems in that field. One way of solving problems is through computer science which is why I am here. My background in the area is a computer science course, programming for computational biology course and bioinformatics. During these courses I worked on two relevant projects: One using the viennaRNA package to predict RNA secondary structures. The other was working with raw microarray data obtained from a study investigating drug effect on bacteria.
